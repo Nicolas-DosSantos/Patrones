@@ -1,4 +1,4 @@
-package org.sigo;
+package org;
 
 public class Main {
 
